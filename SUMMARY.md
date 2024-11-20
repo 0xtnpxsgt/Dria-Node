@@ -7,11 +7,11 @@
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
-## Basics
+## Airnode Guides
 
-* [Allora Network](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Allora Network](airnode-guides/editor.md)
+* [Markdown](airnode-guides/markdown.md)
+* [Images & media](airnode-guides/images-and-media.md)
+* [Interactive blocks](airnode-guides/interactive-blocks.md)
+* [OpenAPI](airnode-guides/openapi.md)
+* [Integrations](airnode-guides/integrations.md)
