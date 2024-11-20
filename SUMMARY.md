@@ -9,6 +9,7 @@
 
 ## Airnode Guides
 
+* [Install XRDP](airnode-guides/install-xrdp.md)
 * [Allora Network](airnode-guides/editor.md)
 * [Markdown](airnode-guides/markdown.md)
 * [Images & media](airnode-guides/images-and-media.md)
