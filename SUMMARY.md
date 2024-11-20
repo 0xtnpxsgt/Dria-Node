@@ -9,6 +9,7 @@
 
 ## Airnode Guides
 
+* [Rivalz Node Cli](airnode-guides/rivalz-node-cli.md)
 * [Install XRDP](airnode-guides/install-xrdp.md)
 * [Allora Network](airnode-guides/editor.md)
 * [Markdown](airnode-guides/markdown.md)
